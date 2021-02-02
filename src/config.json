@@ -1,0 +1,5 @@
+{
+  "TWITTER_API_URL": "https://bumble-twitter-interview.herokuapp.com/guillaume-vial/api",
+  "TWITTER_API_TWEET_FETCH_LIMIT": 10,
+  "TWITTER_API_TWEET_FETCH_DEFAULT_TIMEOUT": 2000
+}

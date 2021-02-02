@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "baseUrl": "/",
+        "outDir": "./static/dist/",
+        "allowJs": true,
+        "sourceMap": true,
+        "module": "commonjs",
+        "target": "es5",
+        "jsx": "react",
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "resolveJsonModule": true,
+        "strict": true
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
